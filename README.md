@@ -16,7 +16,7 @@ Easily input your monthly mess fee, log when you skip a lunch or dinner, and the
 - **Installable PWA**: Works 100% offline! Install it directly to your mobile home screen via Safari or Chrome.
 
 ## 🚀 Live Demo
-
+https://github.com/ashycoding/Monthly-Tiffin-Tracker
 
 ## 🛠️ Technologies Used
 - HTML5
