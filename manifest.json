@@ -1,16 +1,22 @@
 {
   "name": "Mess Expense Tracker",
   "short_name": "Mess Tracker",
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#f0f4f3",
   "theme_color": "#2ecc87",
   "description": "Track your monthly mess expenses, missed meals, and easily generate expense receipts.",
   "icons": [
     {
-      "src": "icon.svg",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
